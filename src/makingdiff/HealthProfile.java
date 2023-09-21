@@ -1,4 +1,4 @@
-package chapterthree;
+package makingdiff;
 public class HealthProfile {
     private String firstName;
     private String lastName;

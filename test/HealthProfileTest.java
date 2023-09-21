@@ -1,6 +1,4 @@
-package Chapter3Test;
-
-import chapterthree.HealthProfile;
+import makingdiff.HealthProfile;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
